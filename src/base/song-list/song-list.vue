@@ -36,7 +36,7 @@ export default {
        if(index<=2){
           return `icon icon${index}`
        }else{
-        return 'text'
+          return 'text'
        }
     },
     getRankText(index){

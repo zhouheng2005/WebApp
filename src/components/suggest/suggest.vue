@@ -103,6 +103,9 @@ const  perpage = 20
              }
              this.$emit('select')
          },
+         refresh(){
+            this.$refs.suggest.refresh()
+         },
          listScroll(){
             this.$emit('listScroll')
          },

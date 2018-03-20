@@ -7,6 +7,7 @@ import router from './router'
 import store from './store'
 import fastclick from 'fastclick'
 import VueLazyload from 'vue-lazyload'
+
 // import router from './router'
 import 'common/stylus/index.styl'
 

@@ -60,6 +60,7 @@
     .box
       flex: 1
       margin: 0 5px
+      outline: none;
       line-height: 18px
       background: $color-highlight-background
       color: $color-text
